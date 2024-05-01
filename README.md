@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**MsN-12/MsN-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I am Mohsen
+**`I am a software engineer and security researcher who trying creating value`**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎮Im working as **C# | .NET developer**
+* 🌱 Currently learning **Golang**
+* 🧐 Instrested in **high-performance** and **secure** systems
+* 🕵️‍♂️ Engaging in part-time **bug bounty** hunting and security analysis.
+---
+<p align="center">
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang">
+    <img src="https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0" alt="AlpineJs">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+</p>
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=MsN-12&theme=dark&hide_border=true" width="500">
+</p>
