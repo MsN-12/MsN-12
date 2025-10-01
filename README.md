@@ -2,8 +2,8 @@
 # Hi 👋 I am Mohsen
 **`I am a software engineer and security researcher who trying creating value`**
 
-* 🎮Im working as **C# | .NET developer**
-* 🌱 Currently learning **Golang**
+* 🎮Im Working as C# .NET Developer & Golang Game Server Developer**
+* 🌱 Currently learning **AI Engineering**
 * 🧐 Instrested in **high-performance** and **secure** systems
 * 🕵️‍♂️ Engaging in part-time **bug bounty** hunting and security analysis.
 ---
