@@ -1,6 +1,6 @@
 
 # Hi 👋 I am Mohsen
-**`I am a software engineer and security researcher who trying creating value`**
+**`I am a software engineer who trying creating value`**
 
 * 🎮Im Working as **C# .NET** Developer & **Golang** Game Server Developer
 * 🌱 Currently learning **AI Engineering**
